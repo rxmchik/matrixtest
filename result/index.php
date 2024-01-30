@@ -1,22 +1,3 @@
-<?php
-// result/index.php
-
-if ($_SERVER["REQUEST_METHOD"] == "POST") {
-    // Отримайте дані з форми
-    $name = $_POST["name"];
-    $birthbay = $_POST["birthbay"];
-
-    // Обробка та розрахунки тут
-
-    // Виведення результатів
-    echo "<p>Результати розрахунків:</p>";
-    echo "<p>Ім'я: $name</p>";
-    echo "<p>Дата народження: $birthbay</p>";
-    // Додайте інші результати розрахунків, які ви хочете вивести
-}
-?>
-
-
 <!DOCTYPE html>
 <html lang="ru" class="page_result">
 	<head>
