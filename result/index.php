@@ -1,19 +1,15 @@
 <?php
-// Перевірка, чи отримано POST-запит
-if ($_SERVER["REQUEST_METHOD"] == "POST") {
-    // Отримання даних з форми
-    $name = isset($_POST['name']) ? $_POST['name'] : '';
-    $birthday = isset($_POST['birthday']) ? $_POST['birthday'] : '';
-
+// Перевірка, чи отримано GET-запит
+if ($_SERVER["REQUEST_METHOD"] == "GET") {
     // Отримання шляху до текстового файлу
-    $filePath = 'result/matrixform.txt';
+    $filePath = '/result/matrixform.txt';
 
     // Перевірка чи існує файл та чи можна його прочитати
     if (file_exists($filePath) && is_readable($filePath)) {
         // Зчитування вмісту файлу
         $fileContent = file_get_contents($filePath);
 
-        // Формування відповіді (ви можете додати дані name та birthday до відповіді за потребою)
+        // Формування відповіді
         $response = [
             'status' => 'success',
             'message' => $fileContent
@@ -35,7 +31,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         exit;
     }
 } else {
-    // Якщо не POST-запит, вивід помилки
+    // Якщо не GET-запит, вивід помилки
     $response = [
         'status' => 'error',
         'message' => 'Invalid request method.'
