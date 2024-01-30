@@ -63,6 +63,27 @@ function validate_date(value) {
   }
 }
 
+$(document).ready(function() {
+	$(".ajax_submit").submit(function(e) {
+            e.preventDefault();
+
+            var form = $(this);
+
+            $.ajax({
+                type: "POST",
+                url: form.attr("action"),
+                data: form.serialize(),
+                success: function(response) {
+                    // Оновлення вмісту сторінки з отриманими результатами
+                    $(".result-container").html(response);
+                },
+                error: function(error) {
+                    // Виведення помилок в консоль
+                    console.log(error);
+                }
+            });
+        });
+    });
 
 // Вспомогательные функции
 function widthScroll() {
