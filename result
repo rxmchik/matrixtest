@@ -19,7 +19,6 @@
     <!-- Данное значение часто используют(использовали) поисковые системы -->
     <meta name="description" content="">
     <meta name="keywords" content="">
-
     <!-- Традиционная иконка сайта, размер 16x16, прозрачность поддерживается. Рекомендуемый формат: .ico или .png -->
     <link rel="shortcut icon" href="../images/favicon.png">
 
@@ -35,6 +34,16 @@
     <link rel="stylesheet" href="../css/response_767.css" media="(max-width: 767px)">
     <link rel="stylesheet" href="../css/response_479.css" media="(max-width: 479px)">
 </head>
+<!-- Подключение javascript файлов -->
+<script src="/js/jquery-3.5.0.min.js"></script>
+<script src="/js/jquery-migrate-1.4.1.min.js"></script>
+
+<script src="/js/inputmask.min.js"></script>
+
+<script src="/js/functions.js"></script>
+
+<link rel="stylesheet" href="/css/styles.css">
+
 
 <body>
     <div class="wrap">
