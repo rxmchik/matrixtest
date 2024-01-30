@@ -38,6 +38,24 @@
 	</head>
 
 	<body>
+		<?php
+if ($_SERVER["REQUEST_METHOD"] == "POST") {
+    // Отримайте дані з форми
+    $first_name = $_POST["first_name"];
+    $last_name = $_POST["last_name"];
+    $birthbay = $_POST["birthbay"];
+
+    // Обробка та розрахунки тут
+
+    // Виведення результатів
+    echo "<p>Результати розрахунків:</p>";
+    echo "<p>Ім'я: $first_name</p>";
+    echo "<p>Прізвище: $last_name</p>";
+    echo "<p>Дата народження: $birthbay</p>";
+    // Додайте інші результати розрахунків, які ви хочете вивести
+}
+?>
+
 		<div class="wrap">
 			<div class="main">
 				<!-- Шапка -->
