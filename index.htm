@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="ru">
+
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -23,7 +24,7 @@
     <script>
         $(document).ready(function () {
             $('.submit_btn').click(function (event) {
-                event.preventDefault();  // Заборона стандартної відправки форми
+                event.preventDefault(); // Заборона стандартної відправки форми
                 // Отримання даних форми
                 var formData = {
                     'name': $('input[name=name]').val(),
@@ -35,8 +36,8 @@
                     url: 'https://innabot.pythonanywhere.com/freelance',
                     data: formData,
                     success: function (response) {
-                        // Оновлення дерева головної сторінки з отриманими даними
-                        $('body').html(response);
+                        // Перенаправлення на сторінку /result/index.html
+                        window.location.href = '/result/index.html';
                     },
                     error: function () {
                         // Обробка помилок
@@ -99,4 +100,5 @@
     <script src="js/inputmask.min.js"></script>
     <script src="js/functions.js"></script>
 </body>
+
 </html>
