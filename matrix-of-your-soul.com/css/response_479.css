@@ -1,0 +1,79 @@
+@media (max-width: 479px){
+    /*---------------
+        Main styles
+    ---------------*/
+    .page_title{
+        font-size: 34px;
+    }
+
+    .page_title span{
+        display: block;
+        font-size: 22px;
+        margin: 5px 0;
+    }
+
+    /*---------------
+        Header
+    ---------------*/
+
+    /*---------------
+        Main section
+    ---------------*/
+    .back_link{
+        margin-top: 0;
+    }
+
+
+    .sect_form .page_title{
+        margin-bottom: 35px;
+    }
+
+
+    .matrix-diagram__circle{
+        border-width: 1px;
+    }
+
+    .matrix-diagram__number{
+        font-size: 9px;
+    }
+
+    .matrix-diagram__circle.-size-lg{
+        font-size: 24px;
+    }
+
+    .matrix-diagram__circle.-size-md {
+        font-size: 14px;
+    }
+
+    .matrix-diagram__circle.-size-sm {
+        font-size: 12px;
+    }
+
+
+    .resultBlock{
+        margin-top: 30px;
+    }
+
+    .resultBlock{
+        padding-bottom: 50px;
+    }
+
+    .resultBlock .data .box_result{
+        padding: 30px;
+    }
+
+    .resultBlock .schemeBlock{
+        width: calc(100% + 20px);
+        margin-left: -10px;
+    }
+
+
+    .socials .soc{
+        min-width: 235px;
+    }
+
+    /*---------------
+        Footer
+    ---------------*/
+    
+}

@@ -1,0 +1,66 @@
+Uri: https://matrix-of-your-soul.com/result/index.php
+File Name: F:\wget\matrix-of-your-soul.com\result\index.php.html
+Content Type: text/html
+
+ontent Type: text/css
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v36/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKd3vUDQ.ttf
+File Name: F:\wget\matrix-of-your-soul.com\s\playfairdisplay\v36\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKd3vUDQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v36/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKdFvUDQ.ttf
+File Name: F:\wget\matrix-of-your-soul.com\s\playfairdisplay\v36\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKdFvUDQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v36/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKebukDQ.ttf
+File Name: F:\wget\matrix-of-your-soul.com\s\playfairdisplay\v36\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKebukDQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v36/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKeiukDQ.ttf
+File Name: F:\wget\matrix-of-your-soul.com\s\playfairdisplay\v36\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKeiukDQ.ttf
+Content Type: font/ttf
+
+Uri: https://matrix-of-your-soul.com/
+File Name: F:\wget\matrix-of-your-soul.com\index.htm
+Content Type: text/html
+
+Uri: https://matrix-of-your-soul.com/css/response_1024.css
+File Name: F:\wget\matrix-of-your-soul.com\css\response_1024.css
+Content Type: text/css
+
+Uri: https://matrix-of-your-soul.com/css/response_1199.css
+File Name: F:\wget\matrix-of-your-soul.com\css\response_1199.css
+Content Type: text/css
+
+Uri: https://matrix-of-your-soul.com/css/response_479.css
+File Name: F:\wget\matrix-of-your-soul.com\css\response_479.css
+Content Type: text/css
+
+Uri: https://matrix-of-your-soul.com/css/response_767.css
+File Name: F:\wget\matrix-of-your-soul.com\css\response_767.css
+Content Type: text/css
+
+Uri: https://matrix-of-your-soul.com/css/styles.css
+File Name: F:\wget\matrix-of-your-soul.com\css\styles.css
+Content Type: text/css
+
+Uri: https://matrix-of-your-soul.com/images/favicon.png
+File Name: F:\wget\matrix-of-your-soul.com\images\favicon.png
+Content Type: image/png
+
+Uri: https://matrix-of-your-soul.com/js/functions.js
+File Name: F:\wget\matrix-of-your-soul.com\js\functions.js
+Content Type: application/javascript
+
+Uri: https://matrix-of-your-soul.com/js/inputmask.min.js
+File Name: F:\wget\matrix-of-your-soul.com\js\inputmask.min.js
+Content Type: application/javascript
+
+Uri: https://matrix-of-your-soul.com/js/jquery-3.5.0.min.js
+File Name: F:\wget\matrix-of-your-soul.com\js\jquery-3.5.0.min.js
+Content Type: application/javascript
+
+Uri: https://matrix-of-your-soul.com/js/jquery-migrate-1.4.1.min.js
+File Name: F:\wget\matrix-of-your-soul.com\js\jquery-migrate-1.4.1.min.js
+Content Type: application/javascript
+
