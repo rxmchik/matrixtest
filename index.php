@@ -1,0 +1,337 @@
+
+
+<!DOCTYPE html>
+<html lang="ru" class="page_result">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<!-- Переключение IE в последнию версию, на случай если в настройках пользователя стоит меньшая -->
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+		<!-- Адаптирование страницы для мобильных устройств -->
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+		<!-- Запрет распознования номера телефона -->
+		<meta name="format-detection" content="telephone=no">
+		<meta name="SKYPE_TOOLBAR" content ="SKYPE_TOOLBAR_PARSER_COMPATIBLE">
+
+		<!-- Заголовок страницы -->
+		<title>Матриця долі</title>
+
+		<!-- Данное значение часто используют(использовали) поисковые системы -->
+		<meta name="description" content="">
+		<meta name="keywords" content="">
+
+		<!-- Традиционная иконка сайта, размер 16x16, прозрачность поддерживается. Рекомендуемый формат: .ico или .png -->
+		<link rel="shortcut icon" href="../images/favicon.png">
+
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+		<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+		<!-- Подключение файлов стилей -->
+		<link rel="stylesheet" href="../css/styles.css">
+
+		<link rel="stylesheet" href="../css/response_1199.css" media="(max-width: 1199px)">
+		<link rel="stylesheet" href="../css/response_1024.css" media="(max-width: 1024px)">
+		<link rel="stylesheet" href="../css/response_767.css" media="(max-width: 767px)">
+		<link rel="stylesheet" href="../css/response_479.css" media="(max-width: 479px)">
+	</head>
+
+	<body>
+		<div class="wrap">
+			<div class="main">
+				<!-- Шапка -->
+				<header>
+					<div class="cont">
+						<h1 class="page_title center">Матриця <span>твоєї</span> Душі</h1>
+					</div>
+				</header>
+				<!-- End Шапка -->
+
+
+				<!-- Основная часть -->
+				<div class="back_link">
+					<div class="cont">
+						<a href="/">
+							<svg class="icon" width="32" height="19" viewBox="0 0 32 19" fill="none" xmlns="http://www.w3.org/2000/svg">
+								<line x1="21.6046" y1="1.29289" x2="30.3241" y2="10.0124" stroke="currentColor" stroke-width="2"></line>
+								<line y1="-1" x2="12.3312" y2="-1" transform="matrix(0.707107 -0.707107 -0.707107 -0.707107 20.8975 17)" stroke="currentColor" stroke-width="2"></line>
+								<line x1="8.74228e-08" y1="9.75037" x2="29.6167" y2="9.75037" stroke="currentColor" stroke-width="2"></line>
+							</svg>
+
+							Ввести нову дату
+						</a>
+					</div>
+				</div>
+
+				<section class="resultBlock">
+					<div class="cont flex">
+						<div class="schemeBlock">
+							<div class="matrix-diagram__svg">
+								<img src="../images/matrix.svg" alt="">
+							</div>
+
+							<!-- circles -->
+							<div class="matrix-diagram__circle -size-lg -position-a -purple" >21</div>
+							<div class="matrix-diagram__circle -size-md -position-a2 -blue" >5</div>
+							<div class="matrix-diagram__circle -size-sm -position-a1 -cyan" >11</div>
+							<div class="matrix-diagram__circle -size-sm -position-a3 -green" >19</div>
+							<div class="matrix-diagram__circle -size-lg -position-b -purple" >3</div>
+							<div class="matrix-diagram__circle -size-md -position-b2 -blue" >14</div>
+							<div class="matrix-diagram__circle -size-sm -position-b1 -cyan" >11</div>
+							<div class="matrix-diagram__circle -size-sm -position-b3 -green" >19</div>
+							<div class="matrix-diagram__circle -size-sm -position-a1b1 -white" >22</div>
+							<div class="matrix-diagram__circle -size-lg -position-c -red" >7</div>
+							<div class="matrix-diagram__circle -size-md -position-c2 -white" >22</div>
+							<div class="matrix-diagram__circle -size-sm -position-c1 -orange" >15</div>
+							<div class="matrix-diagram__circle -size-lg -position-d -red" >4</div>
+							<div class="matrix-diagram__circle -size-md -position-d2 -white" >16</div>
+							<div class="matrix-diagram__circle -size-sm -position-d1 -orange" >12</div>
+							<div class="matrix-diagram__circle -size-lg -position-e -yellow" >8</div>
+							<!--
+							<div class="matrix-diagram__circle -size-md -position-e1 -white" ></div>
+							<div class="matrix-diagram__circle -size-sm -position-e2 -white" ></div>
+							-->
+							<div class="matrix-diagram__circle -size-lg -position-f -white" >6</div>
+							<div class="matrix-diagram__circle -size-lg -position-g -white" >10</div>
+							<div class="matrix-diagram__circle -size-lg -position-y -white" >11</div>
+							<!--
+							<div class="matrix-diagram__circle -size-sm -position-p1 -white" ></div>
+							<div class="matrix-diagram__circle -size-md -position-p2 -white" ></div>
+							<div class="matrix-diagram__circle -size-sm -position-p3 -white" ></div>
+							<div class="matrix-diagram__circle -size-md -position-p4 -white" ></div>
+							-->
+							<div class="matrix-diagram__circle -size-lg -position-k -white" >7</div>
+							<!--
+							<div class="matrix-diagram__circle -size-sm -position-s1 -white" >6</div>
+							<div class="matrix-diagram__circle -size-md -position-s2 -white" >12</div>
+							<div class="matrix-diagram__circle -size-md -position-s3 -white" >22</div>
+							<div class="matrix-diagram__circle -size-sm -position-s4 -white" >11</div>
+							-->
+							<div class="matrix-diagram__circle -size-sm -position-x -white" >9</div>
+							<div class="matrix-diagram__circle -size-sm -position-x1 -white" >21</div>
+							<div class="matrix-diagram__circle -size-sm -position-x2 -white" >6</div>
+
+							<!-- numbers -->
+
+							<!-- b -->
+
+							<div class="matrix-diagram__number -position-b8" >19</div>
+							<div class="matrix-diagram__number -position-b7" >16</div>
+							<div class="matrix-diagram__number -position-k2" >11</div>
+							<div class="matrix-diagram__number -position-k1 -bold" >13</div>
+							<div class="matrix-diagram__number -position-k4" >18</div>
+							<div class="matrix-diagram__number -position-k3" >5</div>
+							<div class="matrix-diagram__number -position-k5" >15</div>
+
+							<!-- g -->
+
+							<div class="matrix-diagram__number -position-k8" >19</div>
+							<div class="matrix-diagram__number -position-k7" >9</div>
+							<div class="matrix-diagram__number -position-k6" >8</div>
+							<div class="matrix-diagram__number -position-c4 -bold" >17</div>
+							<div class="matrix-diagram__number -position-c6" >5</div>
+							<div class="matrix-diagram__number -position-c5" >6</div>
+							<div class="matrix-diagram__number -position-c7" >13</div>
+
+							<!-- c -->
+
+							<div class="matrix-diagram__number -position-y3" >14</div>
+							<div class="matrix-diagram__number -position-y2" >7</div>
+							<div class="matrix-diagram__number -position-y4" >7</div>
+							<div class="matrix-diagram__number -position-y1 -bold" >18</div>
+							<div class="matrix-diagram__number -position-y6" >11</div>
+							<div class="matrix-diagram__number -position-y5" >11</div>
+							<div class="matrix-diagram__number -position-y7" >22</div>
+
+							<!-- y -->
+
+							<div class="matrix-diagram__number -position-d6" >19</div>
+							<div class="matrix-diagram__number -position-y8" >8</div>
+							<div class="matrix-diagram__number -position-d5" >5</div>
+							<div class="matrix-diagram__number -position-d4 -bold" >15</div>
+							<div class="matrix-diagram__number -position-d8" >7</div>
+							<div class="matrix-diagram__number -position-d7" >19</div>
+							<div class="matrix-diagram__number -position-d9" >5</div>
+
+							<!-- d -->
+
+							<div class="matrix-diagram__number -position-g3" >19</div>
+							<div class="matrix-diagram__number -position-g2" >15</div>
+							<div class="matrix-diagram__number -position-g4" >8</div>
+							<div class="matrix-diagram__number -position-g1 -bold" >11</div>
+							<div class="matrix-diagram__number -position-g7" >11</div>
+							<div class="matrix-diagram__number -position-g5" >18</div>
+							<div class="matrix-diagram__number -position-g6" >7</div>
+
+							<!-- k -->
+
+							<div class="matrix-diagram__number -position-t3" >6</div>
+							<div class="matrix-diagram__number -position-t2" >17</div>
+							<div class="matrix-diagram__number -position-t4" >9</div>
+							<div class="matrix-diagram__number -position-t1 -bold" >10</div>
+							<div class="matrix-diagram__number -position-t6" >14</div>
+							<div class="matrix-diagram__number -position-t5" >4</div>
+							<div class="matrix-diagram__number -position-t7" >7</div>
+
+							<!-- a -->
+
+							<div class="matrix-diagram__number -position-a5" >6</div>
+							<div class="matrix-diagram__number -position-a4" >3</div>
+							<div class="matrix-diagram__number -position-a6" >12</div>
+							<div class="matrix-diagram__number -position-f1 -bold" >9</div>
+							<div class="matrix-diagram__number -position-f3" >6</div>
+							<div class="matrix-diagram__number -position-f2" >15</div>
+							<div class="matrix-diagram__number -position-f4" >21</div>
+
+							<!-- f -->
+
+							<div class="matrix-diagram__number -position-f7" >21</div>
+							<div class="matrix-diagram__number -position-f6" >15</div>
+							<div class="matrix-diagram__number -position-f8" >6</div>
+							<div class="matrix-diagram__number -position-f5 -bold" >9</div>
+							<div class="matrix-diagram__number -position-b5" >21</div>
+							<div class="matrix-diagram__number -position-b4" >12</div>
+							<div class="matrix-diagram__number -position-b6" >15</div>
+
+							<!-- b -->
+						</div>
+
+						<div class="data">
+							<div class="box_result">
+								<div class="items flex">
+									<div class="item">
+										<div class="name">Дата народження:</div>
+
+										<div class="val">21.03.2005</div>
+									</div>
+
+									<div class="item">
+										<div class="name">Вік:</div>
+
+										<div class="val">18</div>
+									</div>
+
+																		<div class="item">
+										<div class="name">Ім'я:</div>
+
+										<div class="val">потап</div>
+									</div>
+																	</div>
+							</div>
+
+							<div class="title">Покликання:</div>
+
+							<div class="box_result">
+								<div class="columns flex">
+									<div class="column">
+										<div class="column_title">Для себе:</div>
+
+										<table>
+											<tr>
+												<td><b>Небо:</b></td>
+												<td><span>7</span></td>
+												<td rowspan="2"><span>17</span></td>
+											</tr>
+
+											<tr>
+												<td><b>Земля:</b></td>
+												<td><span>10</span></td>
+												<td></td>
+											</tr>
+										</table>
+									</div>
+
+									<div class="column">
+										<div class="column_title">Для людей:</div>
+
+										<table>
+											<tr>
+												<td><b>Ч:</b></td>
+												<td><span>17</span></td>
+												<td rowspan="2"><span>7</span></td>
+											</tr>
+
+											<tr>
+												<td><b>Ж:</b></td>
+												<td><span>17</span></td>
+												<td></td>
+											</tr>
+										</table>
+									</div>
+								</div>
+
+								<div class="feature">
+									<div class="name">Загальне:</div>
+
+									<div class="val"><span>6</span></div>
+								</div>
+							</div>
+
+							<div class="box_result">
+								<div class="column_title">Програми по чоловічій лінії:</div>
+
+																<table>
+									<tr>
+										<td class="circle"><span>6</span></td>
+										<td rowspan="2"><span>17</span></td>
+									</tr>
+
+									<tr>
+										<td class="circle"><span>11</span></td>
+										<td></td>
+									</tr>
+								</table>
+
+								<div class="column_title">Програми по жіночій лінії:</div>
+
+																<table>
+									<tr>
+										<td class="circle"><span>10</span></td>
+										<td rowspan="2"><span>17</span></td>
+									</tr>
+
+									<tr>
+										<td class="circle"><span>7</span></td>
+										<td></td>
+									</tr>
+								</table>
+
+																<div class="feature">
+									<div class="name">Сила роду:</div>
+
+									<div class="val"><span>7</span></div>
+								</div>
+							</div>
+
+							<div class="link_btn"><a href="https://instagram.com/olga_tkachishin" target="_blank">Замовити консультацію</a></div>
+						</div>
+					</div>
+				</section>
+				<!-- End Основная часть -->
+			</div>
+
+
+			<!-- Подвал -->
+			<footer>
+				<div class="cont">
+
+				</div>
+			</footer>
+			<!-- End Подвал -->
+		</div>
+
+		<div class="supports_error">
+			Ваш браузер застарів рекомендуємо оновити його до останньої версії <br> або використовувати інший більш сучасний.
+		</div>
+
+
+		<!-- Подключение javascript файлов -->
+		<script src="../js/jquery-3.5.0.min.js"></script>
+		<script src="../js/jquery-migrate-1.4.1.min.js"></script>
+
+		<script src="../js/inputmask.min.js"></script>
+
+		<script src="../js/functions.js"></script>
+	</body>
+</html>
