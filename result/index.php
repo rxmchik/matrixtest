@@ -6,7 +6,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $birthday = isset($_POST['birthday']) ? $_POST['birthday'] : '';
 
     // Отримання шляху до текстового файлу
-    $filePath = '/result/matrixform.txt';
+    $filePath = 'result/matrixform.txt';
 
     // Перевірка чи існує файл та чи можна його прочитати
     if (file_exists($filePath) && is_readable($filePath)) {
