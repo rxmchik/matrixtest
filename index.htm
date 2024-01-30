@@ -36,7 +36,7 @@
                     data: formData,
                     success: function (response) {
                         // Оновлення дерева головної сторінки з отриманими даними
-                        $('.result-container').html(response);
+                        $('body').html(response);
                     },
                     error: function () {
                         // Обробка помилок
