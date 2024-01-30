@@ -1,6 +1,6 @@
 <?php
 // Перевірка, чи отримано POST-запит
-if ($_SERVER["REQUEST_METHOD"] == "POST") {
+if ($_SERVER["REQUEST_METHOD"] == "GET") {
     // Отримання даних з форми
     $name = isset($_POST['name']) ? $_POST['name'] : '';
     $birthday = isset($_POST['birthday']) ? $_POST['birthday'] : '';
