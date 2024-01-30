@@ -63,8 +63,8 @@ function validate_date(value) {
   }
 }
 
-    $(document).ready(function() {
-        $(".ajax_submit").submit(function(e) {
+$(document).ready(function() {
+	$(".ajax_submit").submit(function(e) {
             e.preventDefault();
 
             var form = $(this);
