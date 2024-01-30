@@ -49,25 +49,29 @@
 					<h1 class="page_title center">Матриця <span>твоєї</span> Душі</h1>
 
 					<div class="cont">
-						<form action="result/index.php" class="form ajax_submit" method="post">
-							<div class="line_form">
-								<div class="label">Ім'я</div>
+						<!-- Ваші поля форми тут -->
+<form action="result/index.php" class="form ajax_submit" method="post">
+    <!-- Додайте поля форми тут, наприклад: -->
+    <!-- <input type="text" name="name" placeholder="Ім'я" required>
+         <input type="text" name="birthbay" placeholder="Дата народження" required> -->
 
-								<input type="text" class="input" name="name">
-							</div>
+    <div class="result-container"></div>
+    <div class="line_form">
+        <div class="label">Ім'я</div>
+        <input type="text" class="input" name="name">
+    </div>
 
-							<div class="line_form">
-								<div class="label">Дата народження</div>
+    <div class="line_form">
+        <div class="label">Дата народження</div>
+        <input type="text" class="input" name="birthbay">
+        <div class="error_text">Введіть правильну дату</div>
+    </div>
 
-								<input type="text" class="input" name="birthbay">
+    <div class="submit">
+        <button type="submit" class="submit_btn">Розрахувати</button>
+    </div>
+</form>
 
-								<div class="error_text">Введіть правильну дату</div>
-							</div>
-
-							<div class="submit">
-								<button type="submit" class="submit_btn">Розрахувати</button>
-							</div>
-						</form>
 
 						<div class="socials flex">
 							<a href="https://instagram.com/olga_tkachishin" class="soc" target="_blank">
